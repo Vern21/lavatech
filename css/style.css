@@ -1,0 +1,65 @@
+.team{
+	font-size: 40px;
+	text-decoration: underline;
+	margin-top: 320px;
+	text-align: center;
+	color: white;
+}
+.bio{
+   padding: 20px;
+   margin: 30px;
+   border-color: black;
+   border-style: solid;
+   border-width: 10px
+
+}
+.work{
+	position: absolute;
+	top: 230px;
+	right: 800px;
+	
+
+}
+.folder{
+	position: absolute;
+	top: 230px;
+	right: 400px;
+}
+.verb{
+	position: absolute;
+	top: 460px;
+	right: 800px;
+	
+}
+.letter{
+	position: absolute;
+	top: 460px;
+	right: 400px;
+
+}
+li{
+	display: inline-block;
+	margin-right: 30px;
+	padding-right: 20px;
+}
+
+
+a{
+	text-decoration: none;
+	color: gray;
+}
+
+body{
+	background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+li{
+ 
+ padding: 8px;
+}
+.col-md-4{
+
+
+}
