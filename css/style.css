@@ -56,6 +56,18 @@ h1{
 	text-align: center;
 	color: white;
 	font-size: 40px;
+<<<<<<< HEAD
+=======
+}
+
+p{
+	color: white;
+	margin: 10px;
+	font-size: 16px
+}
+.col-md-8{
+	left: 200px
+>>>>>>> refs/remotes/origin/gh-pages
 }
 
 p{
@@ -68,6 +80,10 @@ p{
 }
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> refs/remotes/origin/gh-pages
      
  
     
